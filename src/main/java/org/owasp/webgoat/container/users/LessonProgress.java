@@ -1,5 +1,5 @@
 package org.owasp.webgoat.container.users;
-
+import jakarta.persistence.*;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
